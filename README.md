@@ -1,7 +1,7 @@
 
 # Quara Post RESTful API Project
 
-Welcome to the Quara Post RESTful API project! This project demonstrates a simple CRUD (Create, Read, Update, Delete) API implementation using JavaScript, EJS, Node.js, Express, and other dependencies.
+Welcome to the Quara Post RESTful API project! This project demonstrates a simple CRUD (Create, Read, Update, Delete) API implementation using JavaScript, EJS, Node.js, Express.
 
 ## Table of Contents
 
@@ -55,7 +55,7 @@ To get started with this project, follow these steps:
 
 2. **Access the API:**
 
-   The API will be available at \`http://localhost:3000\`.
+   The API will be available at \`http://localhost:8080\`.
 
 ## API Endpoints
 
